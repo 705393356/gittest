@@ -27,6 +27,9 @@
 
 #pragma warning(disable:4996)
 
+
+
+//修改些东西
 int main()
 {
 	bool nxtlev[symnum];
